@@ -160,7 +160,7 @@ src/
 **Screenshots**
 ---------------
 
-<img screenshot="11.jpg" width="250"/> 
+<img src="screenshots/11.jpg" width="500" />
 
 
 **Contributing**
